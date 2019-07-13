@@ -1,0 +1,49 @@
+header {
+    text-align: center;
+    color:#000000;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+    background: #92502c;
+    padding: 20px;
+    border: 1px solid white;
+    margin-bottom: 20px;
+    align-content: center;  
+  }
+  
+body { 
+    background-color: darkolivegreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+.game {
+    float: left; 
+}
+.birds{
+    float: right;
+}
+
+.clearfix::after {
+    content:"";
+    display: block;
+    clear: both;
+}
+.euroskull {
+    float: right;
+}
+.fish { 
+    float: right;
+}
+
+footer {
+    align-content: center;
+    background: #92502c;
+    clear: both;
+    padding: 10px;
+    
+  
+  
