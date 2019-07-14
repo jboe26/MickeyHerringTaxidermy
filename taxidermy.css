@@ -26,6 +26,9 @@ h2 {
 .birds{
     float: right;
 }
+.fish {
+    float: right;
+}
 
 .clearfix::after {
     content:"";
